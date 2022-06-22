@@ -6,9 +6,9 @@ This very todo list application written with react.js to save all notes for name
 -Link: https://ahmed-abo-rafat.github.io/Todo_List/
 
 ## To begin:
-``npx create-react-app my-app``<br><br>
-``cd my-app``<br><br>
-`replace the public and src folders with those in this repo.`<br><br>
+``npx create-react-app my-app``<br>
+``cd my-app``<br>
+replace the public and src folders with those in this repo.<br>
 ``npm start``
 
 ## Technologies
